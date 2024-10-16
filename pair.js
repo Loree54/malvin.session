@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
 
                let MALVIN_KING_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ᴍᴀʟᴠɪɴ-ᴍᴅ SESSION IS 
+┃LOREE54 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
@@ -72,7 +72,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❻ || YouTube = https://www.youtube.com/Loree54
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
+©2024-2099 Loree©`
  await Pair_Code_By_Malvin_King.sendMessage(Pair_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
  
 
