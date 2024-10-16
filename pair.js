@@ -62,15 +62,15 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ ᴍᴀʟᴠɪɴ-ᴋɪɴɢ ⚡𖥘
+❶ || Creator = 𖥘⚡Loree54⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || https://whatsapp.com/channel/0029Vac8euakaw😂
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/263780166288
+❸ || Owner = https://wa.me/254710665116
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || Bot Repo = https://github.com/kingmalvn/RAVENS-MD
+❺ || Bot Repo = https://github.com/Loree54/Xpider
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || YouTube = https://www.youtube.com/@MalvinKing_TECH 
+❻ || YouTube = https://www.youtube.com/Loree54
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
  await Pair_Code_By_Malvin_King.sendMessage(Pair_Code_By_Malvin_King.user.id,{text:MALVIN_KING_TEXT},{quoted:session})
